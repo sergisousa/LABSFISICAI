@@ -1,9 +1,7 @@
 # LABSFISICAI
-LABS
+LABS | Nuno Parente e Sérgio Sousa (N&S) |
 
 Todos os documentos importantes das aulas de labs de fisica I.
 
-Relatório Sergio : https://www.overleaf.com/read/hhbxqdgdybbp
-
-Sergio Sousa, Nuno Parente 2021/2022 
+Nuno Parente & Sergio Sousa LTD 2021/2022
 All Rights Reserved ©
